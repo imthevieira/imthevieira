@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imthevieira" alt="imthevieira" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@vieira76044949" target="blank"><img src="https://img.shields.io/twitter/follow/@vieira76044949?logo=twitter&style=for-the-badge" alt="@vieira76044949" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vieira76044949" target="blank"><img src="https://img.shields.io/twitter/follow/vieira76044949?logo=twitter&style=for-the-badge" alt="vieira76044949" /></a> </p>
 
 - 🌱 Atualmente aprendendo **JS, react,node.js**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@vieira76044949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vieira76044949" height="30" width="40" /></a>
+<a href="https://twitter.com/vieira76044949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vieira76044949" height="30" width="40" /></a>
 <a href="https://instagram.com/@imthevieira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@imthevieira" height="30" width="40" /></a>
 </p>
 
@@ -23,4 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imthevieira&show_icons=true&locale=en&layout=compact" alt="imthevieira" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imthevieira&show_icons=true&locale=en" alt="imthevieira" /></p>
-
