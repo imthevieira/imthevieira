@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/imthevieira" target="blank"><img src="https://img.shields.io/twitter/follow/vieira76044949?logo=twitter&style=for-the-badge" alt="vieira76044949" /></a> </p>
 
-- 🌱 Atualmente aprendendo **JS, react,node.js**
+- 🌱 Desenvolvo principalmente bots para Discord usando **JS**
 
 - 📫 Como me contatar? apenas envie um email para **imthevieira@gmail.com**
 
